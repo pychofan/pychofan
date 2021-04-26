@@ -4,6 +4,8 @@ Writing :hankey: Code thats also looks :hankey:
 
 I’m currently learning to write :hankey: Code
 
+![Ez6xg6NWYAwzbWa](https://user-images.githubusercontent.com/35198199/116150283-75dae980-a6e3-11eb-995e-ed36405f6dd5.jpg)
+
 
 <!--
 **pychofan/pychofan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
